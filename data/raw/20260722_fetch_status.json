@@ -1,0 +1,51 @@
+{
+  "_meta": {
+    "generated_at": "2026-07-22T05:03:52.395319+00:00",
+    "today": "20260722",
+    "schema_version": "1.0"
+  },
+  "summary": {
+    "ok": 5,
+    "fallback": 1,
+    "missing": 0,
+    "total": 6,
+    "stale_collectors": [
+      "specs"
+    ],
+    "all_failed": false
+  },
+  "collectors": {
+    "upcoming": {
+      "status": "success_cached",
+      "file": "data/raw/20260722_upcoming_launchlibrary2_launches.json",
+      "filename": "20260722_upcoming_launchlibrary2_launches.json"
+    },
+    "spacex": {
+      "status": "success_cached",
+      "file": "data/raw/20260722_history_spacex_launches.json",
+      "filename": "20260722_history_spacex_launches.json"
+    },
+    "rocketlab": {
+      "status": "success_cached",
+      "file": "data/raw/20260722_history_rocketlab_launches.json",
+      "filename": "20260722_history_rocketlab_launches.json"
+    },
+    "blueorigin": {
+      "status": "success_cached",
+      "file": "data/raw/20260722_history_blueorigin_launches.json",
+      "filename": "20260722_history_blueorigin_launches.json"
+    },
+    "firefly": {
+      "status": "success_cached",
+      "file": "data/raw/20260722_history_firefly_launches.json",
+      "filename": "20260722_history_firefly_launches.json"
+    },
+    "specs": {
+      "status": "fallback",
+      "fallback_to": "data/raw/20260721_specs_launchlibrary2_rockets.json",
+      "fallback_filename": "20260721_specs_launchlibrary2_rockets.json",
+      "fallback_age_days": 1,
+      "error": "HTTP 429 throttled 3412s (>300s 상한) on https://ll.thespacedevs.com/2.2.0/config/launcher/?limit=100"
+    }
+  }
+}

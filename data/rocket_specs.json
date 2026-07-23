@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Starship V3",
+    "shortName": "SS",
+    "h": 124,
+    "leo": 100000,
+    "gto": null,
+    "costKg": null,
+    "reuse": true,
+    "color": "#185FA5",
+    "status": "개발 중",
+    "launches": 11,
+    "successRate": null,
+    "stages": [
+      {"label": "Super Heavy (1단)", "ratio": 0.58, "reuse": true},
+      {"label": "Starship (2단)", "ratio": 0.42, "reuse": true}
+    ]
+  },
+  {
+    "name": "Falcon Heavy",
+    "shortName": "FH",
+    "h": 70,
+    "leo": 63800,
+    "gto": 26700,
+    "costKg": 2350,
+    "reuse": true,
+    "color": "#378ADD",
+    "status": "운용 중",
+    "launches": 11,
+    "successRate": 100,
+    "stages": [
+      {"label": "Boosters (1단 ×3)", "ratio": 0.67, "reuse": true},
+      {"label": "2단 + 페어링", "ratio": 0.33, "reuse": false}
+    ]
+  },
+  {
+    "name": "New Glenn",
+    "shortName": "NG",
+    "h": 98,
+    "leo": 45000,
+    "gto": 13000,
+    "costKg": null,
+    "reuse": true,
+    "color": "#1D9E75",
+    "status": "운용 중",
+    "launches": 3,
+    "successRate": 33,
+    "stages": [
+      {"label": "1단 (BE-4)", "ratio": 0.58, "reuse": true},
+      {"label": "2단 + 페어링", "ratio": 0.42, "reuse": false}
+    ]
+  },
+  {
+    "name": "Falcon 9 B5",
+    "shortName": "F9",
+    "h": 70,
+    "leo": 22800,
+    "gto": 8300,
+    "costKg": 2940,
+    "reuse": true,
+    "color": "#534AB7",
+    "status": "운용 중",
+    "launches": 400,
+    "successRate": 99,
+    "stages": [
+      {"label": "1단 (Merlin ×9)", "ratio": 0.67, "reuse": true},
+      {"label": "2단 + 페어링", "ratio": 0.33, "reuse": false}
+    ]
+  },
+  {
+    "name": "Neutron",
+    "shortName": "N",
+    "h": 43,
+    "leo": 15000,
+    "gto": null,
+    "costKg": 4230,
+    "reuse": true,
+    "color": "#BA7517",
+    "status": "개발 중",
+    "launches": 0,
+    "successRate": null,
+    "stages": [
+      {"label": "1단 (Archimedes)", "ratio": 0.65, "reuse": true},
+      {"label": "2단", "ratio": 0.35, "reuse": false}
+    ]
+  },
+  {
+    "name": "LVM-3",
+    "shortName": "LVM3",
+    "h": 43,
+    "leo": 10000,
+    "gto": 4000,
+    "costKg": null,
+    "reuse": false,
+    "color": "#639922",
+    "status": "운용 중",
+    "launches": 9,
+    "successRate": 100,
+    "stages": [
+      {"label": "S200 부스터", "ratio": 0.40, "reuse": false},
+      {"label": "L110 코어", "ratio": 0.35, "reuse": false},
+      {"label": "C25 극저온 상단", "ratio": 0.25, "reuse": false}
+    ]
+  },
+  {
+    "name": "Alpha",
+    "shortName": "α",
+    "h": 29.6,
+    "leo": 1000,
+    "gto": null,
+    "costKg": 15000,
+    "reuse": false,
+    "color": "#FFB300",
+    "status": "운용 중",
+    "launches": 7,
+    "successRate": 57,
+    "stages": [
+      {"label": "1단 (Reaver ×4)", "ratio": 0.67, "reuse": false},
+      {"label": "2단 (Lightning)", "ratio": 0.33, "reuse": false}
+    ]
+  },
+  {
+    "name": "Electron",
+    "shortName": "E",
+    "h": 18,
+    "leo": 320,
+    "gto": null,
+    "costKg": 23000,
+    "reuse": false,
+    "color": "#D85A30",
+    "status": "운용 중",
+    "launches": 87,
+    "successRate": 96,
+    "stages": [
+      {"label": "1단 (Rutherford)", "ratio": 0.67, "reuse": false},
+      {"label": "2단 + Curie", "ratio": 0.33, "reuse": false}
+    ]
+  },
+  {
+    "name": "New Shepard",
+    "shortName": "NS",
+    "h": 15,
+    "leo": null,
+    "gto": null,
+    "costKg": null,
+    "reuse": true,
+    "color": "#888780",
+    "status": "운용 정지",
+    "launches": 28,
+    "successRate": 96,
+    "stages": [
+      {"label": "단일 단 + 캡슐", "ratio": 1.00, "reuse": true}
+    ]
+  }
+]

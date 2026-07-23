@@ -1,0 +1,760 @@
+{
+  "_meta": {
+    "fetched_at": "2026-07-22T05:03:54.450768+00:00",
+    "source": "TSR analyst (analyze_rocket_data.py)",
+    "reliability": "1.5차",
+    "axis": [
+      "territory",
+      "comms",
+      "energy_logistics",
+      "defense"
+    ]
+  },
+  "metrics": {
+    "yoy": {
+      "spacex": [
+        {
+          "year": "2006",
+          "count": 1,
+          "yoy_pct": null
+        },
+        {
+          "year": "2007",
+          "count": 1,
+          "yoy_pct": 0.0
+        },
+        {
+          "year": "2008",
+          "count": 2,
+          "yoy_pct": 100.0
+        },
+        {
+          "year": "2009",
+          "count": 1,
+          "yoy_pct": -50.0
+        },
+        {
+          "year": "2010",
+          "count": 2,
+          "yoy_pct": 100.0
+        },
+        {
+          "year": "2012",
+          "count": 2,
+          "yoy_pct": 0.0
+        },
+        {
+          "year": "2013",
+          "count": 3,
+          "yoy_pct": 50.0
+        },
+        {
+          "year": "2014",
+          "count": 6,
+          "yoy_pct": 100.0
+        },
+        {
+          "year": "2015",
+          "count": 7,
+          "yoy_pct": 16.7
+        },
+        {
+          "year": "2016",
+          "count": 9,
+          "yoy_pct": 28.6
+        },
+        {
+          "year": "2017",
+          "count": 18,
+          "yoy_pct": 100.0
+        },
+        {
+          "year": "2018",
+          "count": 21,
+          "yoy_pct": 16.7
+        },
+        {
+          "year": "2019",
+          "count": 15,
+          "yoy_pct": -28.6
+        },
+        {
+          "year": "2020",
+          "count": 29,
+          "yoy_pct": 93.3
+        },
+        {
+          "year": "2021",
+          "count": 35,
+          "yoy_pct": 20.7
+        },
+        {
+          "year": "2022",
+          "count": 61,
+          "yoy_pct": 74.3
+        },
+        {
+          "year": "2023",
+          "count": 98,
+          "yoy_pct": 60.7
+        },
+        {
+          "year": "2024",
+          "count": 138,
+          "yoy_pct": 40.8
+        },
+        {
+          "year": "2025",
+          "count": 170,
+          "yoy_pct": 23.2
+        },
+        {
+          "year": "2026",
+          "count": 88,
+          "yoy_pct": -48.2
+        }
+      ],
+      "rocketlab": [
+        {
+          "year": "2017",
+          "count": 1,
+          "yoy_pct": null
+        },
+        {
+          "year": "2018",
+          "count": 3,
+          "yoy_pct": 200.0
+        },
+        {
+          "year": "2019",
+          "count": 6,
+          "yoy_pct": 100.0
+        },
+        {
+          "year": "2020",
+          "count": 7,
+          "yoy_pct": 16.7
+        },
+        {
+          "year": "2021",
+          "count": 6,
+          "yoy_pct": -14.3
+        },
+        {
+          "year": "2022",
+          "count": 9,
+          "yoy_pct": 50.0
+        },
+        {
+          "year": "2023",
+          "count": 10,
+          "yoy_pct": 11.1
+        },
+        {
+          "year": "2024",
+          "count": 16,
+          "yoy_pct": 60.0
+        },
+        {
+          "year": "2025",
+          "count": 21,
+          "yoy_pct": 31.2
+        },
+        {
+          "year": "2026",
+          "count": 12,
+          "yoy_pct": -42.9
+        }
+      ],
+      "blueorigin": [
+        {
+          "year": "2015",
+          "count": 2,
+          "yoy_pct": null
+        },
+        {
+          "year": "2016",
+          "count": 4,
+          "yoy_pct": 100.0
+        },
+        {
+          "year": "2017",
+          "count": 1,
+          "yoy_pct": -75.0
+        },
+        {
+          "year": "2018",
+          "count": 2,
+          "yoy_pct": 100.0
+        },
+        {
+          "year": "2019",
+          "count": 3,
+          "yoy_pct": 50.0
+        },
+        {
+          "year": "2020",
+          "count": 1,
+          "yoy_pct": -66.7
+        },
+        {
+          "year": "2021",
+          "count": 6,
+          "yoy_pct": 500.0
+        },
+        {
+          "year": "2022",
+          "count": 4,
+          "yoy_pct": -33.3
+        },
+        {
+          "year": "2023",
+          "count": 1,
+          "yoy_pct": -75.0
+        },
+        {
+          "year": "2024",
+          "count": 4,
+          "yoy_pct": 300.0
+        },
+        {
+          "year": "2025",
+          "count": 11,
+          "yoy_pct": 175.0
+        },
+        {
+          "year": "2026",
+          "count": 2,
+          "yoy_pct": -81.8
+        }
+      ],
+      "firefly": [
+        {
+          "year": "2021",
+          "count": 1,
+          "yoy_pct": null
+        },
+        {
+          "year": "2022",
+          "count": 1,
+          "yoy_pct": 0.0
+        },
+        {
+          "year": "2023",
+          "count": 2,
+          "yoy_pct": 100.0
+        },
+        {
+          "year": "2024",
+          "count": 1,
+          "yoy_pct": -50.0
+        },
+        {
+          "year": "2025",
+          "count": 1,
+          "yoy_pct": 0.0
+        },
+        {
+          "year": "2026",
+          "count": 1,
+          "yoy_pct": 0.0
+        }
+      ]
+    },
+    "success_rate": {
+      "by_company": {
+        "spacex": {
+          "total": 706,
+          "success": 691,
+          "failure": 11,
+          "partial": 4,
+          "rate_pct": 97.9
+        },
+        "rocketlab": {
+          "total": 91,
+          "success": 87,
+          "failure": 4,
+          "partial": 0,
+          "rate_pct": 95.6
+        },
+        "blueorigin": {
+          "total": 41,
+          "success": 39,
+          "failure": 2,
+          "partial": 0,
+          "rate_pct": 95.1
+        },
+        "firefly": {
+          "total": 7,
+          "success": 4,
+          "failure": 2,
+          "partial": 1,
+          "rate_pct": 57.1
+        }
+      },
+      "by_model": [
+        {
+          "company": "spacex",
+          "model": "Falcon 9",
+          "total": 668,
+          "success": 664,
+          "failure": 3,
+          "partial": 1,
+          "rate_pct": 99.4
+        },
+        {
+          "company": "rocketlab",
+          "model": "Electron",
+          "total": 91,
+          "success": 87,
+          "failure": 4,
+          "partial": 0,
+          "rate_pct": 95.6
+        },
+        {
+          "company": "blueorigin",
+          "model": "New Shepard",
+          "total": 38,
+          "success": 37,
+          "failure": 1,
+          "partial": 0,
+          "rate_pct": 97.4
+        },
+        {
+          "company": "spacex",
+          "model": "Starship",
+          "total": 12,
+          "success": 7,
+          "failure": 4,
+          "partial": 1,
+          "rate_pct": 58.3
+        },
+        {
+          "company": "spacex",
+          "model": "Falcon Heavy",
+          "total": 12,
+          "success": 12,
+          "failure": 0,
+          "partial": 0,
+          "rate_pct": 100.0
+        },
+        {
+          "company": "spacex",
+          "model": "Starship Prototype",
+          "total": 9,
+          "success": 6,
+          "failure": 1,
+          "partial": 2,
+          "rate_pct": 66.7
+        },
+        {
+          "company": "firefly",
+          "model": "Firefly Alpha",
+          "total": 7,
+          "success": 4,
+          "failure": 2,
+          "partial": 1,
+          "rate_pct": 57.1
+        },
+        {
+          "company": "spacex",
+          "model": "Falcon 1",
+          "total": 5,
+          "success": 2,
+          "failure": 3,
+          "partial": 0,
+          "rate_pct": 40.0
+        },
+        {
+          "company": "blueorigin",
+          "model": "New Glenn",
+          "total": 3,
+          "success": 2,
+          "failure": 1,
+          "partial": 0,
+          "rate_pct": 66.7
+        }
+      ]
+    },
+    "market_share": {
+      "since_year": 2020,
+      "total_launches": 736,
+      "share_pct": {
+        "spacex": 84.1,
+        "rocketlab": 11.0,
+        "blueorigin": 3.9,
+        "firefly": 1.0
+      },
+      "raw_counts": {
+        "spacex": 619,
+        "rocketlab": 81,
+        "blueorigin": 29,
+        "firefly": 7
+      },
+      "by_year": {
+        "2020": {
+          "spacex": 29,
+          "rocketlab": 7,
+          "blueorigin": 1
+        },
+        "2021": {
+          "spacex": 35,
+          "rocketlab": 6,
+          "blueorigin": 6,
+          "firefly": 1
+        },
+        "2022": {
+          "spacex": 61,
+          "rocketlab": 9,
+          "blueorigin": 4,
+          "firefly": 1
+        },
+        "2023": {
+          "spacex": 98,
+          "rocketlab": 10,
+          "blueorigin": 1,
+          "firefly": 2
+        },
+        "2024": {
+          "spacex": 138,
+          "rocketlab": 16,
+          "blueorigin": 4,
+          "firefly": 1
+        },
+        "2025": {
+          "spacex": 170,
+          "rocketlab": 21,
+          "blueorigin": 11,
+          "firefly": 1
+        },
+        "2026": {
+          "spacex": 88,
+          "rocketlab": 12,
+          "blueorigin": 2,
+          "firefly": 1
+        }
+      }
+    },
+    "cost_per_kg": [],
+    "axis_distribution": {
+      "overall": {
+        "energy_logistics": 449,
+        "comms": 584,
+        "defense": 92,
+        "territory": 37
+      },
+      "by_company": {
+        "SpaceX": {
+          "energy_logistics": 189,
+          "comms": 554,
+          "defense": 68,
+          "territory": 18
+        },
+        "Rocket Lab": {
+          "energy_logistics": 105,
+          "comms": 11,
+          "defense": 4,
+          "territory": 2
+        },
+        "Blue Origin": {
+          "comms": 3,
+          "energy_logistics": 40,
+          "territory": 3
+        },
+        "Firefly Aerospace": {
+          "energy_logistics": 10,
+          "comms": 4
+        },
+        "Orienspace Technology": {
+          "energy_logistics": 2
+        },
+        "China Aerospace Science and Technology Corporation": {
+          "energy_logistics": 9,
+          "territory": 1
+        },
+        "CAS Space": {
+          "energy_logistics": 1
+        },
+        "Agency for Defense Development": {
+          "energy_logistics": 1
+        },
+        "Russian Space Forces": {
+          "energy_logistics": 1
+        },
+        "Isar Aerospace": {
+          "energy_logistics": 9
+        },
+        "Mitsubishi Heavy Industries": {
+          "energy_logistics": 4,
+          "territory": 4,
+          "comms": 2
+        },
+        "Arianespace": {
+          "energy_logistics": 8,
+          "comms": 4
+        },
+        "Rocket Factory Augsburg": {
+          "energy_logistics": 1
+        },
+        "LandSpace": {
+          "energy_logistics": 1
+        },
+        "Russian Federal Space Agency (ROSCOSMOS)": {
+          "energy_logistics": 2,
+          "territory": 2
+        },
+        "Avio S.p.A": {
+          "energy_logistics": 19
+        },
+        "Korea Aerospace Research Institute": {
+          "energy_logistics": 2
+        },
+        "United Launch Alliance": {
+          "comms": 2,
+          "energy_logistics": 7,
+          "defense": 20
+        },
+        "Indian Space Research Organization": {
+          "energy_logistics": 15,
+          "comms": 1,
+          "territory": 2
+        },
+        "Innospace": {
+          "energy_logistics": 1
+        },
+        "European Space Agency": {
+          "energy_logistics": 1
+        },
+        "Astra Space": {
+          "energy_logistics": 1
+        },
+        "Japan Aerospace Exploration Agency": {
+          "energy_logistics": 2
+        },
+        "i-Space": {
+          "energy_logistics": 1
+        },
+        "Payload Aerospace S.L.": {
+          "energy_logistics": 1,
+          "comms": 1
+        },
+        "Deep Blue Aerospace": {
+          "energy_logistics": 1
+        },
+        "Stoke Space": {
+          "energy_logistics": 1
+        },
+        "Orbex": {
+          "energy_logistics": 1
+        },
+        "Galactic Energy": {
+          "energy_logistics": 1
+        },
+        "Relativity Space": {
+          "comms": 1,
+          "territory": 2,
+          "energy_logistics": 1
+        },
+        "Unknown": {
+          "energy_logistics": 2
+        },
+        "Latitude": {
+          "energy_logistics": 1
+        },
+        "Gilmour Space Technologies": {
+          "energy_logistics": 1
+        },
+        "MaiaSpace": {
+          "energy_logistics": 1,
+          "comms": 1
+        },
+        "Northrop Grumman Space Systems": {
+          "energy_logistics": 1
+        },
+        "National Aeronautics and Space Administration": {
+          "territory": 3
+        },
+        "National Center of Space Research": {
+          "energy_logistics": 1
+        },
+        "Skyrora": {
+          "energy_logistics": 1
+        },
+        "HyImpulse": {
+          "energy_logistics": 1
+        },
+        "Virgin Galactic": {
+          "energy_logistics": 1
+        },
+        "Interstellar Technologies": {
+          "energy_logistics": 1
+        }
+      },
+      "by_year": {
+        "2006": {
+          "energy_logistics": 1
+        },
+        "2007": {
+          "energy_logistics": 1
+        },
+        "2008": {
+          "energy_logistics": 2
+        },
+        "2009": {
+          "energy_logistics": 1
+        },
+        "2010": {
+          "energy_logistics": 2
+        },
+        "2012": {
+          "energy_logistics": 2
+        },
+        "2013": {
+          "comms": 1,
+          "energy_logistics": 2
+        },
+        "2014": {
+          "energy_logistics": 4,
+          "comms": 3
+        },
+        "2015": {
+          "comms": 3,
+          "energy_logistics": 7
+        },
+        "2016": {
+          "comms": 6,
+          "energy_logistics": 7
+        },
+        "2017": {
+          "comms": 11,
+          "energy_logistics": 8,
+          "territory": 1,
+          "defense": 1
+        },
+        "2018": {
+          "defense": 1,
+          "energy_logistics": 13,
+          "comms": 12
+        },
+        "2019": {
+          "comms": 7,
+          "energy_logistics": 17,
+          "territory": 1
+        },
+        "2020": {
+          "defense": 4,
+          "comms": 16,
+          "energy_logistics": 17
+        },
+        "2021": {
+          "energy_logistics": 26,
+          "comms": 21,
+          "territory": 1,
+          "defense": 1
+        },
+        "2022": {
+          "energy_logistics": 23,
+          "comms": 44,
+          "territory": 3,
+          "defense": 5
+        },
+        "2023": {
+          "comms": 77,
+          "defense": 5,
+          "energy_logistics": 28,
+          "territory": 2
+        },
+        "2024": {
+          "comms": 107,
+          "energy_logistics": 41,
+          "defense": 10,
+          "territory": 2
+        },
+        "2025": {
+          "comms": 136,
+          "defense": 11,
+          "energy_logistics": 54,
+          "territory": 3
+        },
+        "2026": {
+          "energy_logistics": 120,
+          "comms": 110,
+          "defense": 37,
+          "territory": 8
+        },
+        "2027": {
+          "energy_logistics": 51,
+          "defense": 15,
+          "comms": 27,
+          "territory": 9
+        },
+        "2028": {
+          "energy_logistics": 22,
+          "territory": 7,
+          "comms": 3,
+          "defense": 2
+        }
+      }
+    },
+    "highlights": [
+      {
+        "kind": "RKLB recent",
+        "date": "2026-06-26",
+        "rocket": "Electron",
+        "mission": "Ten Owl Of Ten (StriX Launch 10)",
+        "result": "success",
+        "axes": [
+          "energy_logistics"
+        ]
+      },
+      {
+        "kind": "RKLB recent",
+        "date": "2026-06-19",
+        "rocket": "Electron",
+        "mission": "VICTUS HAZE Puma",
+        "result": "success",
+        "axes": [
+          "energy_logistics"
+        ]
+      },
+      {
+        "kind": "RKLB recent",
+        "date": "2026-06-11",
+        "rocket": "Electron",
+        "mission": "Curveball",
+        "result": "success",
+        "axes": [
+          "energy_logistics"
+        ]
+      },
+      {
+        "kind": "RKLB recent",
+        "date": "2026-05-22",
+        "rocket": "Electron",
+        "mission": "Viva La StriX (StriX Launch 9)",
+        "result": "success",
+        "axes": [
+          "energy_logistics"
+        ]
+      },
+      {
+        "kind": "RKLB recent",
+        "date": "2026-04-23",
+        "rocket": "Electron",
+        "mission": "Kakushin Rising (JAXA Rideshare)",
+        "result": "success",
+        "axes": [
+          "energy_logistics"
+        ]
+      }
+    ]
+  },
+  "raw_files": {
+    "upcoming": "data/raw/20260722_upcoming_launchlibrary2_launches.json",
+    "spacex": "data/raw/20260722_history_spacex_launches.json",
+    "rocketlab": "data/raw/20260722_history_rocketlab_launches.json",
+    "blueorigin": "data/raw/20260722_history_blueorigin_launches.json",
+    "firefly": "data/raw/20260722_history_firefly_launches.json",
+    "specs": "data/raw/20260721_specs_launchlibrary2_rockets.json"
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "_meta": {
+    "fetched_at": "2026-07-22T05:00:00.236394+00:00",
+    "source": "Launch Library 2 (thespacedevs)",
+    "source_url": "https://ll.thespacedevs.com/2.2.0/launch/previous/?lsp__id=265",
+    "reliability": "1.5차",
+    "scope": "history:firefly",
+    "axis": [
+      "territory",
+      "comms",
+      "energy_logistics",
+      "defense"
+    ],
+    "record_count": 7,
+    "schema_version": "1.0",
+    "integrity_prev_count": 7
+  },
+  "records": [
+    {
+      "id": "3f6de963-7197-48aa-a49f-6c944cbf85e9",
+      "name": "Firefly Alpha | Stairway to Seven",
+      "net": "2026-03-12T00:50:00Z",
+      "window_start": "2026-03-12T00:50:00Z",
+      "window_end": "2026-03-12T02:50:00Z",
+      "status": {
+        "id": 3,
+        "name": "Launch Successful",
+        "abbrev": "Success"
+      },
+      "company": "Firefly Aerospace",
+      "company_country": "USA",
+      "rocket_model": "Firefly Alpha",
+      "rocket_family": "Firefly Alpha",
+      "rocket_variant": "",
+      "rocket_reusable": false,
+      "pad_name": "Space Launch Complex 2W",
+      "pad_location": "Vandenberg SFB, CA, USA",
+      "pad_country": "USA",
+      "mission_name": "Stairway to Seven",
+      "mission_type": "Test Flight",
+      "mission_description": "Firefly Alpha's Flight 7 is a test flight and return-To-Flight for the launch vehicle after its April 2025 launch failure. It will test and validate key systems ahead of Firefly’s Block II configuration upgrade on Flight 8 that’s designed to enhance reliability and manufacturability across the vehicle.\r\n\r\nFlight 7 is the last flown in Alpha’s current configuration and will test multiple Block II subsystems, including the in-house avionics and thermal improvements, to gain flight heritage and validate lessons learned ahead of the full configuration upgrade on Flight 8.\r\n\r\nThis launch also delivered a demonstrator payload for Lockheed Martin.",
+      "orbit": "Low Earth Orbit",
+      "customer": "Firefly Aerospace",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/firefly_alpha_l_image_20240605174156.jpeg",
+      "axes": [
+        "energy_logistics"
+      ],
+      "result": "success"
+    },
+    {
+      "id": "d6dd6900-332e-4e9e-89b8-dfa4ba285822",
+      "name": "Firefly Alpha | FLTA006 (Message in a Booster)",
+      "net": "2025-04-29T13:37:00Z",
+      "window_start": "2025-04-29T13:37:00Z",
+      "window_end": "2025-04-29T14:29:00Z",
+      "status": {
+        "id": 4,
+        "name": "Launch Failure",
+        "abbrev": "Failure"
+      },
+      "company": "Firefly Aerospace",
+      "company_country": "USA",
+      "rocket_model": "Firefly Alpha",
+      "rocket_family": "Firefly Alpha",
+      "rocket_variant": "",
+      "rocket_reusable": false,
+      "pad_name": "Space Launch Complex 2W",
+      "pad_location": "Vandenberg SFB, CA, USA",
+      "pad_country": "USA",
+      "mission_name": "FLTA006 (Message in a Booster)",
+      "mission_type": "Technology",
+      "mission_description": "Sixth flight of the Firefly Alpha small satellite launcher, launching the demonstration mission for Lockheed Martin's new LM400 satellite bus, which will carry a communications payload. The satellite bus is customizable to support different missions, including remote sensing, communications, imagery and radar Earth observations. It can also support different kinds of orbits and launch configurations.",
+      "orbit": "Low Earth Orbit",
+      "customer": "Firefly Aerospace",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/firefly_alpha_l_image_20240605174156.jpeg",
+      "axes": [
+        "energy_logistics"
+      ],
+      "result": "failure"
+    },
+    {
+      "id": "67c0e594-72df-4cb4-8db3-3f94e96a7ecc",
+      "name": "Firefly Alpha | FLTA005 (Noise of Summer)",
+      "net": "2024-07-04T04:04:00Z",
+      "window_start": "2024-07-04T04:03:00Z",
+      "window_end": "2024-07-04T04:33:00Z",
+      "status": {
+        "id": 3,
+        "name": "Launch Successful",
+        "abbrev": "Success"
+      },
+      "company": "Firefly Aerospace",
+      "company_country": "USA",
+      "rocket_model": "Firefly Alpha",
+      "rocket_family": "Firefly Alpha",
+      "rocket_variant": "",
+      "rocket_reusable": false,
+      "pad_name": "Space Launch Complex 2W",
+      "pad_location": "Vandenberg SFB, CA, USA",
+      "pad_country": "USA",
+      "mission_name": "FLTA005 (Noise of Summer)",
+      "mission_type": "Technology",
+      "mission_description": "Fifth flight of the Firefly Alpha small sat launcher, carrying eight cubesats for NASA's ELaNa 43 (Educational Launch of a Nanosatellite) mission.",
+      "orbit": "Sun-Synchronous Orbit",
+      "customer": "NASA",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/firefly_alpha_l_image_20240605174156.jpeg",
+      "axes": [
+        "energy_logistics"
+      ],
+      "result": "success"
+    },
+    {
+      "id": "1c322288-e79c-4975-a76a-c2e83908903e",
+      "name": "Firefly Alpha | FLTA004 (Fly the Lightning)",
+      "net": "2023-12-22T17:32:30Z",
+      "window_start": "2023-12-22T17:18:00Z",
+      "window_end": "2023-12-22T17:48:00Z",
+      "status": {
+        "id": 7,
+        "name": "Launch was a Partial Failure",
+        "abbrev": "Partial Failure"
+      },
+      "company": "Firefly Aerospace",
+      "company_country": "USA",
+      "rocket_model": "Firefly Alpha",
+      "rocket_family": "Firefly Alpha",
+      "rocket_variant": "",
+      "rocket_reusable": false,
+      "pad_name": "Space Launch Complex 2W",
+      "pad_location": "Vandenberg SFB, CA, USA",
+      "pad_country": "USA",
+      "mission_name": "FLTA004 (Fly the Lightning)",
+      "mission_type": "Technology",
+      "mission_description": "Firefly’s Alpha rocket will launch Lockheed Martin’s new wideband Electronically Steerable Antenna (ESA) technology integrated on a Terran Orbital Nebula satellite bus. Developed within Lockheed Martin Space’s Ignite organization using a proprietary design, the ESA payload will demonstrate faster on-orbit sensor calibration to deliver rapid capabilities to U.S. warfighters.",
+      "orbit": "Low Earth Orbit",
+      "customer": "Firefly Aerospace",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/firefly2520alp_image_20231220135356.jpeg",
+      "axes": [
+        "energy_logistics"
+      ],
+      "result": "partial"
+    },
+    {
+      "id": "b8f2e028-285c-457d-b807-a6749cfc3af6",
+      "name": "Firefly Alpha | FLTA003 (VICTUS NOX)",
+      "net": "2023-09-15T02:28:00Z",
+      "window_start": "2023-09-15T01:57:00Z",
+      "window_end": "2023-09-15T03:19:00Z",
+      "status": {
+        "id": 3,
+        "name": "Launch Successful",
+        "abbrev": "Success"
+      },
+      "company": "Firefly Aerospace",
+      "company_country": "USA",
+      "rocket_model": "Firefly Alpha",
+      "rocket_family": "Firefly Alpha",
+      "rocket_variant": "",
+      "rocket_reusable": false,
+      "pad_name": "Space Launch Complex 2W",
+      "pad_location": "Vandenberg SFB, CA, USA",
+      "pad_country": "USA",
+      "mission_name": "FLTA003 (VICTUS NOX)",
+      "mission_type": "Government/Top Secret",
+      "mission_description": "Third flight of the Firefly Alpha small sat launcher, carrying a payload for the US Department of Defense.",
+      "orbit": "Low Earth Orbit",
+      "customer": "USSF (Tactically Responsive Space)",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/firefly2520alp_image_20230915073405.jpeg",
+      "axes": [
+        "energy_logistics"
+      ],
+      "result": "success"
+    },
+    {
+      "id": "a7fcb777-83a4-4876-951b-ac31a9d37252",
+      "name": "Firefly Alpha | FLTA002 (To The Black)",
+      "net": "2022-10-01T07:01:00Z",
+      "window_start": "2022-10-01T07:01:00Z",
+      "window_end": "2022-10-01T09:00:00Z",
+      "status": {
+        "id": 3,
+        "name": "Launch Successful",
+        "abbrev": "Success"
+      },
+      "company": "Firefly Aerospace",
+      "company_country": "USA",
+      "rocket_model": "Firefly Alpha",
+      "rocket_family": "Firefly Alpha",
+      "rocket_variant": "",
+      "rocket_reusable": false,
+      "pad_name": "Space Launch Complex 2W",
+      "pad_location": "Vandenberg SFB, CA, USA",
+      "pad_country": "USA",
+      "mission_name": "FLTA002 (To The Black)",
+      "mission_type": "Test Flight",
+      "mission_description": "Second test flight of the Firefly Alpha small sat launcher developed by Firefly Aerospace.",
+      "orbit": "Low Earth Orbit",
+      "customer": "Firefly Aerospace",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/firefly_alpha_l_image_20240605174156.jpeg",
+      "axes": [
+        "energy_logistics"
+      ],
+      "result": "success"
+    },
+    {
+      "id": "bb2a5291-0aef-4c2a-8e29-93362d256fea",
+      "name": "Firefly Alpha | FLTA001 (Maiden Flight)",
+      "net": "2021-09-03T01:59:00Z",
+      "window_start": "2021-09-03T01:00:00Z",
+      "window_end": "2021-09-03T05:00:00Z",
+      "status": {
+        "id": 4,
+        "name": "Launch Failure",
+        "abbrev": "Failure"
+      },
+      "company": "Firefly Aerospace",
+      "company_country": "USA",
+      "rocket_model": "Firefly Alpha",
+      "rocket_family": "Firefly Alpha",
+      "rocket_variant": "",
+      "rocket_reusable": false,
+      "pad_name": "Space Launch Complex 2W",
+      "pad_location": "Vandenberg SFB, CA, USA",
+      "pad_country": "USA",
+      "mission_name": "FLTA001 (Maiden Flight)",
+      "mission_type": "Test Flight",
+      "mission_description": "First flight of the new Firefly Alpha small sat launcher developed by Firefly Aerospace. It will carry Firefly’s DREAM (Dedicated Research & Education Accelerator Mission), which includes various payloads like cubesats, personal items, pictures, DNA samples and more to inspire young people to pursue STEM education.",
+      "orbit": "Low Earth Orbit",
+      "customer": "Firefly Aerospace",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/firefly_alpha_l_image_20240605174156.jpeg",
+      "axes": [
+        "energy_logistics"
+      ],
+      "result": "failure"
+    }
+  ]
+}

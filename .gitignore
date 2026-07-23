@@ -1,0 +1,6 @@
+# build intermediates (final outputs are copied to repo root)
+dashboard/
+analysis/
+data/sources/
+__pycache__/
+.DS_Store

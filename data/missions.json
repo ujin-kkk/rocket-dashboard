@@ -1,0 +1,112 @@
+[
+  {
+    "id": "artemis3",
+    "name": "아르테미스 III",
+    "sector": "달·심우주",
+    "summary": "아폴로 이후 50년만의 유인 달 착륙. HLS로 Starship 활용",
+    "rocket": "SLS Block 1B / Starship HLS",
+    "customer": "NASA",
+    "year": 2026,
+    "status": "예정"
+  },
+  {
+    "id": "kuiper",
+    "name": "Amazon Kuiper",
+    "sector": "통신 인프라",
+    "summary": "LEO 3,236기 위성망으로 글로벌 광대역 인터넷 구축. Starlink 대항마",
+    "rocket": "Ariane 64 / Atlas V / Vulcan",
+    "customer": "Amazon",
+    "year": 2024,
+    "status": "진행 중"
+  },
+  {
+    "id": "starship-ops",
+    "name": "Starship 상업 운용",
+    "sector": "달·심우주",
+    "summary": "완전 재사용 초대형 발사체 상업화. 화성 이송 및 point-to-point 서비스",
+    "rocket": "Starship V3 / Super Heavy",
+    "customer": "SpaceX",
+    "year": 2026,
+    "status": "개발 중"
+  },
+  {
+    "id": "iss-leo",
+    "name": "LEO 민간 우주정거장",
+    "sector": "우주정거장",
+    "summary": "ISS 퇴역 대비 Axiom / Starlab 등 상업 정거장 구축",
+    "rocket": "Falcon 9 / Starship",
+    "customer": "Axiom Space / Starlab",
+    "year": 2028,
+    "status": "개발 중"
+  },
+  {
+    "id": "sda-tranche1",
+    "name": "SDA Tranche 1",
+    "sector": "국방·안보",
+    "summary": "미 우주개발청 저궤도 군사 위성망. Transport + Tracking 레이어 구성",
+    "rocket": "Falcon 9",
+    "customer": "U.S. Space Development Agency",
+    "year": 2026,
+    "status": "진행 중"
+  },
+  {
+    "id": "synspective",
+    "name": "Synspective SAR 위성망",
+    "sector": "지구관측",
+    "summary": "일본 주도 레이더 지구관측 위성망. 재난·인프라 모니터링 상업화",
+    "rocket": "Electron",
+    "customer": "Synspective",
+    "year": 2024,
+    "status": "진행 중"
+  },
+  {
+    "id": "blacksky",
+    "name": "BlackSky Gen-3",
+    "sector": "지구관측",
+    "summary": "고해상도 광학 위성 3세대. 실시간 지구관측 서비스 고도화",
+    "rocket": "Electron",
+    "customer": "BlackSky",
+    "year": 2026,
+    "status": "진행 중"
+  },
+  {
+    "id": "starshield",
+    "name": "Starshield (군용 Starlink)",
+    "sector": "국방·안보",
+    "summary": "Starlink 기반 미 정부 전용 보안 위성망. ISR 및 통신 지원",
+    "rocket": "Falcon 9",
+    "customer": "U.S. Government / NRO",
+    "year": 2023,
+    "status": "진행 중"
+  },
+  {
+    "id": "viasat3",
+    "name": "ViaSat-3 글로벌망",
+    "sector": "통신 인프라",
+    "summary": "3기 GEO 위성으로 전세계 고속 위성인터넷 커버리지 완성",
+    "rocket": "Falcon Heavy",
+    "customer": "Viasat",
+    "year": 2023,
+    "status": "진행 중"
+  },
+  {
+    "id": "ast-spacemobile",
+    "name": "AST SpaceMobile BlueBird",
+    "sector": "통신 인프라",
+    "summary": "스마트폰 직접 연결(direct-to-cell) LEO 위성망. Block 2 대형 안테나로 24/7 광대역 셀룰러 서비스",
+    "rocket": "New Glenn / Falcon 9",
+    "customer": "AST SpaceMobile (ASTS)",
+    "year": 2025,
+    "status": "진행 중"
+  },
+  {
+    "id": "lunar-gateway",
+    "name": "Lunar Gateway",
+    "sector": "달·심우주",
+    "summary": "달 궤도 국제 우주정거장. 아르테미스 장기 달 탐사 허브",
+    "rocket": "Falcon Heavy / SLS",
+    "customer": "NASA / ESA / JAXA",
+    "year": 2027,
+    "status": "개발 중"
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "_meta": {
+    "generated_at": "2026-07-23T01:15:45.028494+00:00",
+    "today": "20260723",
+    "schema_version": "1.0"
+  },
+  "summary": {
+    "ok": 6,
+    "fallback": 0,
+    "missing": 0,
+    "total": 6,
+    "stale_collectors": [],
+    "all_failed": false
+  },
+  "collectors": {
+    "upcoming": {
+      "status": "success_cached",
+      "file": "data/raw/20260723_upcoming_launchlibrary2_launches.json",
+      "filename": "20260723_upcoming_launchlibrary2_launches.json"
+    },
+    "spacex": {
+      "status": "success_cached",
+      "file": "data/raw/20260723_history_spacex_launches.json",
+      "filename": "20260723_history_spacex_launches.json"
+    },
+    "rocketlab": {
+      "status": "success_cached",
+      "file": "data/raw/20260723_history_rocketlab_launches.json",
+      "filename": "20260723_history_rocketlab_launches.json"
+    },
+    "blueorigin": {
+      "status": "success_cached",
+      "file": "data/raw/20260723_history_blueorigin_launches.json",
+      "filename": "20260723_history_blueorigin_launches.json"
+    },
+    "firefly": {
+      "status": "success_cached",
+      "file": "data/raw/20260723_history_firefly_launches.json",
+      "filename": "20260723_history_firefly_launches.json"
+    },
+    "specs": {
+      "status": "success",
+      "file": "data/raw/20260723_specs_launchlibrary2_rockets.json",
+      "filename": "20260723_specs_launchlibrary2_rockets.json"
+    }
+  }
+}
