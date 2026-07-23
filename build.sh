@@ -1,7 +1,5 @@
 #!/bin/bash
 # build.sh — 로켓 대시보드 재빌드 (fetch → analyze → dashboard → Pages 파일 갱신)
-# 원본 파이프라인: Desktop/AI/research/space/events/launches (SSOT)
-# 이 저장소는 GitHub Pages 배포 번들 — 스크립트 수정은 원본에서 하고 재푸시.
 set -euo pipefail
 cd "$(dirname "$0")"
 
